@@ -1,0 +1,44 @@
+Listening at http://localhost:9000
+
+Listening at http://localhost:9000
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object.exports._errnoException (util.js:953:11)
+    at exports._exceptionWithHostPort (util.js:976:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at EventEmitter.listen (/Users/user/Desktop/VueDemo/sam-music/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/user/Desktop/VueDemo/sam-music/prod.server.js:52:23)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+Listening at http://localhost:9000
+
+Listening at http://localhost:9000
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object.exports._errnoException (util.js:953:11)
+    at exports._exceptionWithHostPort (util.js:976:20)
+    at Server._listen2 (net.js:1253:14)
+    at listen (net.js:1289:10)
+    at Server.listen (net.js:1385:5)
+    at EventEmitter.listen (/Users/user/Desktop/VueDemo/sam-music/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/user/Desktop/VueDemo/sam-music/prod.server.js:52:23)
+    at Module._compile (module.js:541:32)
+    at Object.Module._extensions..js (module.js:550:10)
+    at Module.load (module.js:458:32)
+Listening at http://localhost:9000
+
+Listening at http://localhost:9000
+
+Listening at http://localhost:9000
+
